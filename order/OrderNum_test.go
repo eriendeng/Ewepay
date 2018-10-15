@@ -3,7 +3,7 @@ package order_test
 import (
 	"testing"
 	"fmt"
-	"../order"
+	"github.com/erienniu/Ewepay/order"
 )
 
 func TestOrderNumber(t *testing.T) {

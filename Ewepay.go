@@ -1,8 +1,8 @@
 package Ewepay
 
 import (
-	"./conf"
-	"./order"
+	"github.com/erienniu/Ewepay/conf"
+	"github.com/erienniu/Ewepay/order"
 )
 
 func Config(path, mode string)  {

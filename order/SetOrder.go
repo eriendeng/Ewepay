@@ -6,7 +6,7 @@ import (
 	"crypto/md5"
 	"strings"
 	"encoding/hex"
-	"../conf"
+	"github.com/erienniu/Ewepay/conf"
 	"encoding/xml"
 	"bytes"
 	"net/http"

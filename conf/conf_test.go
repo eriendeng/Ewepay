@@ -2,7 +2,7 @@ package conf_test
 
 import (
 	"testing"
-	"../conf"
+	"github.com/erienniu/Ewepay/conf"
 	"fmt"
 )
 

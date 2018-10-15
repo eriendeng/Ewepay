@@ -2,8 +2,8 @@ package order_test
 
 import "testing"
 import (
-	"../order"
-	"../conf"
+	"github.com/erienniu/Ewepay/order"
+	"github.com/erienniu/Ewepay/conf"
 	"fmt"
 )
 
