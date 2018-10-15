@@ -1,6 +1,6 @@
 # Ewepay
 ##### 基于golang的微信开发平台整合
---
+-----
 
 ![微信支付流程](https://pay.weixin.qq.com/wiki/doc/api/img/chapter7_4_1.png)
 基于微信支付流程，整合大量琐碎结构和接口。
@@ -9,9 +9,9 @@
 * 写入商品信息和价格即可提交订单
 * 获取用户openid (TODO)
 
---
+-----
 
-调用方式
+### 调用方式
 
 ```GO
 package main
@@ -20,7 +20,7 @@ import (
 	"github.com/erienniu/Ewepay"
 )
 
-//type UnifyOrderReq struct {
+//type stru struct {
 //	Appid            string `xml:"appid"`
 //	Body             string `xml:"body"`
 //	Mch_id           string `xml:"mch_id"`
